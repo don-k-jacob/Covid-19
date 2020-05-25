@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/covid/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/covid/build" />
+      <excludeFolder url="file://$MODULE_DIR$/covid/ios/.symlinks/plugins/webview_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/covid/ios/.symlinks/plugins/webview_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/covid/ios/.symlinks/plugins/webview_flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/covid/ios/.symlinks/plugins/webview_flutter/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
